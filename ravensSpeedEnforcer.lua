@@ -3,7 +3,7 @@
 --- MOD_ID: ravensSpeedEnforcer
 --- MOD_AUTHOR: [raven]
 --- MOD_DESCRIPTION: Enforces maximum 4x game speed
---- BADGE_COLOUR: FF6B6B
+--- BADGE_COLOUR: D2AFFF
 --- PREFIX: se
 --- PRIORITY: 1000
 --- VERSION: 1.0.0
